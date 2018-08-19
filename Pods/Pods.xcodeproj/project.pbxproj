@@ -158,12 +158,12 @@
 		0978BAC4DFC8FCC76EC04FAA824037DE /* PopupDialog+Keyboard.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "PopupDialog+Keyboard.swift"; path = "PopupDialog/Classes/PopupDialog+Keyboard.swift"; sourceTree = "<group>"; };
 		0C93439409484C1C0DFD6F633E8CE598 /* MessageViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageViewController.swift; path = Sources/Controllers/MessageViewController.swift; sourceTree = "<group>"; };
 		0CC05FFAD6216456C4CA56896AAD4F03 /* UIView+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Extensions.swift"; path = "Sources/Extensions/UIView+Extensions.swift"; sourceTree = "<group>"; };
-		111CE7048AB66B096545308AEBECDB81 /* PopupDialog.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = PopupDialog.framework; path = PopupDialog.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		111CE7048AB66B096545308AEBECDB81 /* PopupDialog.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PopupDialog.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		12186FD9F66B39178E47BC934052C6DF /* SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.xcconfig; sourceTree = "<group>"; };
 		12F9354208E5A76E84BFB9B909FE47E8 /* DynamicBlurView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DynamicBlurView.modulemap; sourceTree = "<group>"; };
 		157BF6A76C895F237B689EDF7A3FA3D0 /* DispatchQueue+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DispatchQueue+Alamofire.swift"; path = "Source/DispatchQueue+Alamofire.swift"; sourceTree = "<group>"; };
 		179644F773C1CB89055FF9EE2ED6A8FA /* AVMetadataObject+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "AVMetadataObject+Extensions.swift"; path = "Sources/Extensions/AVMetadataObject+Extensions.swift"; sourceTree = "<group>"; };
-		1866968F2D3023B09FA62F02A6C7226D /* BarcodeScanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BarcodeScanner.framework; path = BarcodeScanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1866968F2D3023B09FA62F02A6C7226D /* BarcodeScanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BarcodeScanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F3161525ED0B8CA3B77293BE4AB8D8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		1AC87CE48EB5300AAD795230B835CB0E /* DynamicBlurView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DynamicBlurView.h; path = DynamicBlurView/DynamicBlurView.h; sourceTree = "<group>"; };
 		1AEABD37A2B111B9DD7DA4E77AECD1F9 /* FocusViewType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FocusViewType.swift; path = Sources/DataStructures/FocusViewType.swift; sourceTree = "<group>"; };
@@ -173,7 +173,7 @@
 		2CD926814572ED0459ADB6DD47804617 /* PopupDialog-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PopupDialog-dummy.m"; sourceTree = "<group>"; };
 		2DA5228EDBF14653641375FBB0A757B7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2DA8644C1BE9F0D3731F12CA16BF300F /* BarcodeScanner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BarcodeScanner-umbrella.h"; sourceTree = "<group>"; };
-		2E023E3F44F770BCD79E67F0F038EDB1 /* DynamicBlurView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DynamicBlurView.framework; path = DynamicBlurView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E023E3F44F770BCD79E67F0F038EDB1 /* DynamicBlurView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DynamicBlurView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E3DAC5AC92AE7099F9C110C6A19A798 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3EAD71E9C66F5F2BD5FA3F5F3FF3BEA1 /* BarcodeScanner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = BarcodeScanner.modulemap; sourceTree = "<group>"; };
 		3EEE1BB7C5C2748CAC471CE556E663B9 /* SessionManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionManager.swift; path = Source/SessionManager.swift; sourceTree = "<group>"; };
@@ -197,7 +197,7 @@
 		57F161336880B69C77533939B873BA09 /* DynamicBlurView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DynamicBlurView-umbrella.h"; sourceTree = "<group>"; };
 		61F927C3D843756837C27C0A7BB4CF92 /* PopupDialogOverlayView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PopupDialogOverlayView.swift; path = PopupDialog/Classes/PopupDialogOverlayView.swift; sourceTree = "<group>"; };
 		6301D22EBD18F254F53E89991BCD75DB /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Response.swift; path = Source/Response.swift; sourceTree = "<group>"; };
-		657E8C0A851863F99192A235DE88D4DA /* Localization.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Localization.bundle; path = "BarcodeScanner-Localization.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		657E8C0A851863F99192A235DE88D4DA /* Localization.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Localization.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		66A2C80094D9CB90ACBD8233FD2D3042 /* UIView+Animations.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Animations.swift"; path = "PopupDialog/Classes/UIView+Animations.swift"; sourceTree = "<group>"; };
 		6C0C69524215D2EE6FA59AB00581965D /* PopupDialog-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PopupDialog-prefix.pch"; sourceTree = "<group>"; };
 		6C672AA6E0C961B722ABDA6B6934F7E8 /* SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
@@ -210,18 +210,18 @@
 		8C90C6545B9E158A3678C5820BF93433 /* Localizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = Localizable.strings; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8D906507230E24B1639B75B57BD12F80 /* Pods-BarcodeScannerExample-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BarcodeScannerExample-frameworks.sh"; sourceTree = "<group>"; };
 		8F831F245B9AD208D7C5583567D8E801 /* BarcodeScanner.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BarcodeScanner.xcconfig; sourceTree = "<group>"; };
-		8FD4C119C13F4A2BC3423A9205E80120 /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftyJSON.framework; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FD4C119C13F4A2BC3423A9205E80120 /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9355863F60DAA0F2043793B69449330D /* DynamicBlurView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DynamicBlurView.xcconfig; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		96A6836520860BE242BD845F4335C4F9 /* NetworkReachabilityManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetworkReachabilityManager.swift; path = Source/NetworkReachabilityManager.swift; sourceTree = "<group>"; };
 		96A87BD6BCC816AB5B2FEBB8691B56F6 /* PopupDialog.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = PopupDialog.modulemap; sourceTree = "<group>"; };
 		9754C24A81DCA0E6B376F42999CFEB6A /* State.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = State.swift; path = Sources/DataStructures/State.swift; sourceTree = "<group>"; };
 		9823843D526C3CF1C89311DDBDFCAA6B /* UIViewController+Visibility.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+Visibility.swift"; path = "PopupDialog/Classes/UIViewController+Visibility.swift"; sourceTree = "<group>"; };
 		9B05E66584DDB206722E40BE24A35282 /* TorchMode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TorchMode.swift; path = Sources/DataStructures/TorchMode.swift; sourceTree = "<group>"; };
 		9F4D17E5AE4D62AAAAEB046A379D0E54 /* Pods-BarcodeScannerExample-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BarcodeScannerExample-resources.sh"; sourceTree = "<group>"; };
-		A045C7F2EF96B1B1C7C4BDD7040DC6FC /* Pods_BarcodeScannerExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BarcodeScannerExample.framework; path = "Pods-BarcodeScannerExample.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A045C7F2EF96B1B1C7C4BDD7040DC6FC /* Pods_BarcodeScannerExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BarcodeScannerExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0DBF6FA51212F3D2F57DBE2650EC7F6 /* Alamofire-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Alamofire-dummy.m"; sourceTree = "<group>"; };
-		A7FD2AFA48303E7D996FABF3A742C756 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Alamofire.framework; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7FD2AFA48303E7D996FABF3A742C756 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A86AEF2EE7BC6D961225C961B10BA5B8 /* cameraRotate@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "cameraRotate@3x.png"; path = "Images/cameraRotate@3x.png"; sourceTree = "<group>"; };
 		B09264492301710E90E0B59C3198A270 /* TrackingMode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TrackingMode.swift; path = DynamicBlurView/TrackingMode.swift; sourceTree = "<group>"; };
 		B465541E568B4AC31AC68D331228E799 /* PresentationController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PresentationController.swift; path = PopupDialog/Classes/PresentationController.swift; sourceTree = "<group>"; };
@@ -240,7 +240,7 @@
 		CED12FA99B6A7125AD245E8BCA12B02A /* CGImage+Accelerate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CGImage+Accelerate.swift"; path = "DynamicBlurView/CGImage+Accelerate.swift"; sourceTree = "<group>"; };
 		CF5ED4828FE220E3069CBD190EF2AA76 /* Pods-BarcodeScannerExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BarcodeScannerExample.release.xcconfig"; sourceTree = "<group>"; };
 		D07F5BA143635970FD30CCB099B67581 /* Localizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = Localizable.strings; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
-		D3E1AB971EDA52D98E2D255705AF1C77 /* BarcodeScanner.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = BarcodeScanner.bundle; path = "BarcodeScanner-BarcodeScanner.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3E1AB971EDA52D98E2D255705AF1C77 /* BarcodeScanner.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BarcodeScanner.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5E6085CB3041E5930435BDBDE7F758E /* PopupDialogContainerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PopupDialogContainerView.swift; path = PopupDialog/Classes/PopupDialogContainerView.swift; sourceTree = "<group>"; };
 		D9FB4B599B4F502E47CDF26290957521 /* PopupDialog.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PopupDialog.xcconfig; sourceTree = "<group>"; };
 		DB576D27AE7434350CE1A743038F3E03 /* Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Alamofire.swift; path = Source/Alamofire.swift; sourceTree = "<group>"; };
@@ -435,7 +435,6 @@
 				9823843D526C3CF1C89311DDBDFCAA6B /* UIViewController+Visibility.swift */,
 				9C1B6FB656CB6915187D0B915D98110E /* Support Files */,
 			);
-			name = PopupDialog;
 			path = PopupDialog;
 			sourceTree = "<group>";
 		};
@@ -473,7 +472,6 @@
 				531DE97EB1ED62C6100EC072BCAB3B3D /* Validation.swift */,
 				0BC9D1BDCC2AE09A5929D05C09AFBE86 /* Support Files */,
 			);
-			name = Alamofire;
 			path = Alamofire;
 			sourceTree = "<group>";
 		};
@@ -516,7 +514,6 @@
 				411F4AB4D4C4EEC8BAAA3F2B4D3504EE /* UIImage+Blur.swift */,
 				64A4DF727606BF83D532DA86F64D5E4E /* Support Files */,
 			);
-			name = DynamicBlurView;
 			path = DynamicBlurView;
 			sourceTree = "<group>";
 		};
@@ -539,7 +536,6 @@
 				380B564C5078AAD847B529122DAACFDE /* Resources */,
 				64E394B3042C248CA3DF04C813DF41F9 /* Support Files */,
 			);
-			name = BarcodeScanner;
 			path = BarcodeScanner;
 			sourceTree = "<group>";
 		};
@@ -612,7 +608,6 @@
 				FB4FC5F00210F296C2A6675E93D91725 /* SwiftyJSON.swift */,
 				96B31F55863C5E307749E0F070637CB5 /* Support Files */,
 			);
-			name = SwiftyJSON;
 			path = SwiftyJSON;
 			sourceTree = "<group>";
 		};
@@ -823,7 +818,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 0940;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -1152,6 +1147,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -1593,6 +1589,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -1643,6 +1640,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;

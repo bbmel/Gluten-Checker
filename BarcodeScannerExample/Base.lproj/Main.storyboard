@@ -24,27 +24,27 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="CKC-pj-aA1">
-                                <rect key="frame" x="98" y="283.5" width="179" height="100"/>
-                                <subviews>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="fill" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1IP-XH-yBM">
-                                        <rect key="frame" x="10.5" y="0.0" width="158" height="100"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                        <state key="normal" title="Press to scan item"/>
-                                        <connections>
-                                            <action selector="handleScannerPush:forEvent:" destination="l7u-ZM-WHJ" eventType="touchUpInside" id="gOC-4v-gYj"/>
-                                        </connections>
-                                    </button>
-                                </subviews>
+                                <rect key="frame" x="98" y="284" width="179" height="100"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="179" id="7nX-iu-pOL"/>
                                     <constraint firstAttribute="height" constant="100" id="ltb-zN-6Rd"/>
                                 </constraints>
                             </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="fill" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1IP-XH-yBM">
+                                <rect key="frame" x="93.5" y="313" width="187" height="41"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="press to scan item"/>
+                                <connections>
+                                    <action selector="handleScannerPush:forEvent:" destination="l7u-ZM-WHJ" eventType="touchUpInside" id="gOC-4v-gYj"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="CKC-pj-aA1" firstAttribute="centerY" secondItem="4hZ-wG-weU" secondAttribute="centerY" id="4UO-xV-U4B"/>
-                            <constraint firstItem="CKC-pj-aA1" firstAttribute="centerX" secondItem="4hZ-wG-weU" secondAttribute="centerX" id="iUk-SK-Bto"/>
+                            <constraint firstItem="1IP-XH-yBM" firstAttribute="centerX" secondItem="4hZ-wG-weU" secondAttribute="centerX" id="BO9-dc-iot"/>
+                            <constraint firstItem="CKC-pj-aA1" firstAttribute="centerX" secondItem="1IP-XH-yBM" secondAttribute="centerX" id="Zor-SN-e8d"/>
+                            <constraint firstItem="CKC-pj-aA1" firstAttribute="centerY" secondItem="1IP-XH-yBM" secondAttribute="centerY" id="alc-VA-ipq"/>
+                            <constraint firstItem="1IP-XH-yBM" firstAttribute="centerY" secondItem="4hZ-wG-weU" secondAttribute="centerY" id="pzP-ru-60T"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="8NL-rw-eS2"/>
                     </view>
@@ -75,7 +75,7 @@
                                 </constraints>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.58072251080000004" green="0.066734083" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.85882352941176465" green="0.19607843137254902" blue="0.21176470588235294" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="47n-sq-U3B" firstAttribute="top" secondItem="bag-Eu-c49" secondAttribute="top" constant="187" id="hah-PK-aoN"/>
                             <constraint firstItem="47n-sq-U3B" firstAttribute="centerY" secondItem="loa-gn-DDn" secondAttribute="centerY" id="ral-Ka-oPR"/>

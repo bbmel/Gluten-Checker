@@ -10,26 +10,31 @@
 		40221FC2211E2E8200B2DD29 /* GlutenFreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40221FC1211E2E8200B2DD29 /* GlutenFreeViewController.swift */; };
 		40221FC4211E2E9A00B2DD29 /* GlutenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40221FC3211E2E9A00B2DD29 /* GlutenViewController.swift */; };
 		40221FC8211E614500B2DD29 /* gluten.png in Resources */ = {isa = PBXBuildFile; fileRef = 40221FC7211E614400B2DD29 /* gluten.png */; };
-		40221FCA211F7C2800B2DD29 /* ItunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 40221FC9211F7C2800B2DD29 /* ItunesArtwork@2x.png */; };
 		40271014211E120F00977BD0 /* gluten_free.png in Resources */ = {isa = PBXBuildFile; fileRef = 40271013211E120E00977BD0 /* gluten_free.png */; };
-		40271016211E180A00977BD0 /* color_logo_transparent.png in Resources */ = {isa = PBXBuildFile; fileRef = 40271015211E180A00977BD0 /* color_logo_transparent.png */; };
 		40589059211B8EA4004682BE /* glutenIngredients.txt in Resources */ = {isa = PBXBuildFile; fileRef = 40589058211B8EA3004682BE /* glutenIngredients.txt */; };
+		40EC7FE02129FF14001C97F2 /* gluten_check_words_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FDF2129FF14001C97F2 /* gluten_check_words_logo.png */; };
+		40EC7FE2212A0405001C97F2 /* gcFinal_white_logo_transparent copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FE1212A0405001C97F2 /* gcFinal_white_logo_transparent copy.png */; };
+		40EC7FE5212A0537001C97F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FE3212A0537001C97F2 /* LaunchScreen.storyboard */; };
+		40EC7FE7212A063C001C97F2 /* color_words.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FE6212A063B001C97F2 /* color_words.png */; };
+		40EC7FEB212A0AC3001C97F2 /* dark_logo_transparent2.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FEA212A0AC3001C97F2 /* dark_logo_transparent2.png */; };
 		63C957FE1F74872600BAD365 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63C957FC1F74872600BAD365 /* Main.storyboard */; };
 		7D6D7D252B4099761F98D03B /* Pods_BarcodeScannerExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F2F8EDB06143E719746E253D /* Pods_BarcodeScannerExample.framework */; };
 		D50BE3F91C9FE8870000A34C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D50BE3F81C9FE8870000A34C /* AppDelegate.swift */; };
 		D50BE3FB1C9FE8870000A34C /* BarCodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D50BE3FA1C9FE8870000A34C /* BarCodeViewController.swift */; };
 		D50BE4001C9FE8870000A34C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D50BE3FF1C9FE8870000A34C /* Assets.xcassets */; };
-		D50BE4031C9FE8870000A34C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D50BE4011C9FE8870000A34C /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		40221FC1211E2E8200B2DD29 /* GlutenFreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlutenFreeViewController.swift; sourceTree = "<group>"; };
 		40221FC3211E2E9A00B2DD29 /* GlutenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlutenViewController.swift; sourceTree = "<group>"; };
 		40221FC7211E614400B2DD29 /* gluten.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gluten.png; sourceTree = "<group>"; };
-		40221FC9211F7C2800B2DD29 /* ItunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ItunesArtwork@2x.png"; sourceTree = "<group>"; };
 		40271013211E120E00977BD0 /* gluten_free.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gluten_free.png; sourceTree = "<group>"; };
-		40271015211E180A00977BD0 /* color_logo_transparent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = color_logo_transparent.png; sourceTree = "<group>"; };
 		40589058211B8EA3004682BE /* glutenIngredients.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = glutenIngredients.txt; sourceTree = "<group>"; };
+		40EC7FDF2129FF14001C97F2 /* gluten_check_words_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gluten_check_words_logo.png; sourceTree = "<group>"; };
+		40EC7FE1212A0405001C97F2 /* gcFinal_white_logo_transparent copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gcFinal_white_logo_transparent copy.png"; sourceTree = "<group>"; };
+		40EC7FE4212A0537001C97F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		40EC7FE6212A063B001C97F2 /* color_words.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = color_words.png; sourceTree = "<group>"; };
+		40EC7FEA212A0AC3001C97F2 /* dark_logo_transparent2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dark_logo_transparent2.png; sourceTree = "<group>"; };
 		560D7A8F00215E8F16A67009 /* Pods-BarcodeScannerExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BarcodeScannerExample.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BarcodeScannerExample/Pods-BarcodeScannerExample.debug.xcconfig"; sourceTree = "<group>"; };
 		63C957FD1F74872600BAD365 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B2BB8B30EF0245DC64F4025A /* Pods-BarcodeScannerExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BarcodeScannerExample.release.xcconfig"; path = "Pods/Target Support Files/Pods-BarcodeScannerExample/Pods-BarcodeScannerExample.release.xcconfig"; sourceTree = "<group>"; };
@@ -37,7 +42,6 @@
 		D50BE3F81C9FE8870000A34C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D50BE3FA1C9FE8870000A34C /* BarCodeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarCodeViewController.swift; sourceTree = "<group>"; };
 		D50BE3FF1C9FE8870000A34C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D50BE4021C9FE8870000A34C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D50BE4041C9FE8870000A34C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2F8EDB06143E719746E253D /* Pods_BarcodeScannerExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BarcodeScannerExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -92,10 +96,13 @@
 		D50BE3F71C9FE8870000A34C /* BarcodeScannerExample */ = {
 			isa = PBXGroup;
 			children = (
-				40221FC9211F7C2800B2DD29 /* ItunesArtwork@2x.png */,
+				40EC7FEA212A0AC3001C97F2 /* dark_logo_transparent2.png */,
+				40EC7FE6212A063B001C97F2 /* color_words.png */,
+				40EC7FE3212A0537001C97F2 /* LaunchScreen.storyboard */,
+				40EC7FE1212A0405001C97F2 /* gcFinal_white_logo_transparent copy.png */,
+				40EC7FDF2129FF14001C97F2 /* gluten_check_words_logo.png */,
 				40221FC7211E614400B2DD29 /* gluten.png */,
 				40271013211E120E00977BD0 /* gluten_free.png */,
-				40271015211E180A00977BD0 /* color_logo_transparent.png */,
 				40589058211B8EA3004682BE /* glutenIngredients.txt */,
 				63C957FC1F74872600BAD365 /* Main.storyboard */,
 				D50BE3F81C9FE8870000A34C /* AppDelegate.swift */,
@@ -103,7 +110,6 @@
 				40221FC1211E2E8200B2DD29 /* GlutenFreeViewController.swift */,
 				40221FC3211E2E9A00B2DD29 /* GlutenViewController.swift */,
 				D50BE3FF1C9FE8870000A34C /* Assets.xcassets */,
-				D50BE4011C9FE8870000A34C /* LaunchScreen.storyboard */,
 				D50BE4041C9FE8870000A34C /* Info.plist */,
 			);
 			path = BarcodeScannerExample;
@@ -140,7 +146,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
-				LastUpgradeCheck = 0900;
+				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = "Hyper Interaktiv AS";
 				TargetAttributes = {
 					D50BE3F41C9FE8870000A34C = {
@@ -174,11 +180,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40EC7FEB212A0AC3001C97F2 /* dark_logo_transparent2.png in Resources */,
+				40EC7FE7212A063C001C97F2 /* color_words.png in Resources */,
+				40EC7FE02129FF14001C97F2 /* gluten_check_words_logo.png in Resources */,
+				40EC7FE5212A0537001C97F2 /* LaunchScreen.storyboard in Resources */,
 				63C957FE1F74872600BAD365 /* Main.storyboard in Resources */,
-				D50BE4031C9FE8870000A34C /* LaunchScreen.storyboard in Resources */,
+				40EC7FE2212A0405001C97F2 /* gcFinal_white_logo_transparent copy.png in Resources */,
 				40271014211E120F00977BD0 /* gluten_free.png in Resources */,
-				40221FCA211F7C2800B2DD29 /* ItunesArtwork@2x.png in Resources */,
-				40271016211E180A00977BD0 /* color_logo_transparent.png in Resources */,
 				40221FC8211E614500B2DD29 /* gluten.png in Resources */,
 				40589059211B8EA4004682BE /* glutenIngredients.txt in Resources */,
 				D50BE4001C9FE8870000A34C /* Assets.xcassets in Resources */,
@@ -279,20 +287,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		40EC7FE3212A0537001C97F2 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				40EC7FE4212A0537001C97F2 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
 		63C957FC1F74872600BAD365 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				63C957FD1F74872600BAD365 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		D50BE4011C9FE8870000A34C /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D50BE4021C9FE8870000A34C /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -311,12 +319,14 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -365,12 +375,14 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;

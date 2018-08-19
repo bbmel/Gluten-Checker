@@ -92,6 +92,21 @@ open class BarcodeScannerViewController: UIViewController {
 
   open override func viewDidLoad() {
     super.viewDidLoad()
+    
+    let logoContainer = UIView(frame: CGRect(x: 0, y: 0, width: 270, height: 30))
+    
+    let imageView = UIImageView(frame: CGRect(x: 0, y: 0, width: 270, height: 30))
+    imageView.contentMode = .scaleAspectFit
+    let image = UIImage(named: "dark_logo_transparent2.png")
+    imageView.image = image
+    logoContainer.addSubview(imageView)
+    navigationItem.titleView = logoContainer
+   
+    
+  
+    
+
+    
     view.backgroundColor = UIColor.black
 
     add(childViewController: messageViewController)
