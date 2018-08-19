@@ -97,7 +97,7 @@ open class BarcodeScannerViewController: UIViewController {
     
     let imageView = UIImageView(frame: CGRect(x: 0, y: 0, width: 270, height: 30))
     imageView.contentMode = .scaleAspectFit
-    let image = UIImage(named: "dark_logo_transparent2.png")
+    let image = UIImage(named: "color_words.png")
     imageView.image = image
     logoContainer.addSubview(imageView)
     navigationItem.titleView = logoContainer

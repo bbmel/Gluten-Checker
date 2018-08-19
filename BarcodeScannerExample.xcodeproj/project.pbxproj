@@ -11,12 +11,12 @@
 		40221FC4211E2E9A00B2DD29 /* GlutenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40221FC3211E2E9A00B2DD29 /* GlutenViewController.swift */; };
 		40221FC8211E614500B2DD29 /* gluten.png in Resources */ = {isa = PBXBuildFile; fileRef = 40221FC7211E614400B2DD29 /* gluten.png */; };
 		40271014211E120F00977BD0 /* gluten_free.png in Resources */ = {isa = PBXBuildFile; fileRef = 40271013211E120E00977BD0 /* gluten_free.png */; };
+		40561FC7212A1A3500789EF2 /* white_words.png in Resources */ = {isa = PBXBuildFile; fileRef = 40561FC6212A1A3500789EF2 /* white_words.png */; };
 		40589059211B8EA4004682BE /* glutenIngredients.txt in Resources */ = {isa = PBXBuildFile; fileRef = 40589058211B8EA3004682BE /* glutenIngredients.txt */; };
-		40EC7FE02129FF14001C97F2 /* gluten_check_words_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FDF2129FF14001C97F2 /* gluten_check_words_logo.png */; };
-		40EC7FE2212A0405001C97F2 /* gcFinal_white_logo_transparent copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FE1212A0405001C97F2 /* gcFinal_white_logo_transparent copy.png */; };
 		40EC7FE5212A0537001C97F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FE3212A0537001C97F2 /* LaunchScreen.storyboard */; };
 		40EC7FE7212A063C001C97F2 /* color_words.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FE6212A063B001C97F2 /* color_words.png */; };
 		40EC7FEB212A0AC3001C97F2 /* dark_logo_transparent2.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FEA212A0AC3001C97F2 /* dark_logo_transparent2.png */; };
+		40EC7FED212A1361001C97F2 /* white_logo_transparent.png in Resources */ = {isa = PBXBuildFile; fileRef = 40EC7FEC212A1361001C97F2 /* white_logo_transparent.png */; };
 		63C957FE1F74872600BAD365 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63C957FC1F74872600BAD365 /* Main.storyboard */; };
 		7D6D7D252B4099761F98D03B /* Pods_BarcodeScannerExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F2F8EDB06143E719746E253D /* Pods_BarcodeScannerExample.framework */; };
 		D50BE3F91C9FE8870000A34C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D50BE3F81C9FE8870000A34C /* AppDelegate.swift */; };
@@ -29,12 +29,12 @@
 		40221FC3211E2E9A00B2DD29 /* GlutenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlutenViewController.swift; sourceTree = "<group>"; };
 		40221FC7211E614400B2DD29 /* gluten.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gluten.png; sourceTree = "<group>"; };
 		40271013211E120E00977BD0 /* gluten_free.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gluten_free.png; sourceTree = "<group>"; };
+		40561FC6212A1A3500789EF2 /* white_words.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = white_words.png; sourceTree = "<group>"; };
 		40589058211B8EA3004682BE /* glutenIngredients.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = glutenIngredients.txt; sourceTree = "<group>"; };
-		40EC7FDF2129FF14001C97F2 /* gluten_check_words_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gluten_check_words_logo.png; sourceTree = "<group>"; };
-		40EC7FE1212A0405001C97F2 /* gcFinal_white_logo_transparent copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gcFinal_white_logo_transparent copy.png"; sourceTree = "<group>"; };
 		40EC7FE4212A0537001C97F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		40EC7FE6212A063B001C97F2 /* color_words.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = color_words.png; sourceTree = "<group>"; };
 		40EC7FEA212A0AC3001C97F2 /* dark_logo_transparent2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dark_logo_transparent2.png; sourceTree = "<group>"; };
+		40EC7FEC212A1361001C97F2 /* white_logo_transparent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = white_logo_transparent.png; sourceTree = "<group>"; };
 		560D7A8F00215E8F16A67009 /* Pods-BarcodeScannerExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BarcodeScannerExample.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BarcodeScannerExample/Pods-BarcodeScannerExample.debug.xcconfig"; sourceTree = "<group>"; };
 		63C957FD1F74872600BAD365 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B2BB8B30EF0245DC64F4025A /* Pods-BarcodeScannerExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BarcodeScannerExample.release.xcconfig"; path = "Pods/Target Support Files/Pods-BarcodeScannerExample/Pods-BarcodeScannerExample.release.xcconfig"; sourceTree = "<group>"; };
@@ -99,8 +99,8 @@
 				40EC7FEA212A0AC3001C97F2 /* dark_logo_transparent2.png */,
 				40EC7FE6212A063B001C97F2 /* color_words.png */,
 				40EC7FE3212A0537001C97F2 /* LaunchScreen.storyboard */,
-				40EC7FE1212A0405001C97F2 /* gcFinal_white_logo_transparent copy.png */,
-				40EC7FDF2129FF14001C97F2 /* gluten_check_words_logo.png */,
+				40EC7FEC212A1361001C97F2 /* white_logo_transparent.png */,
+				40561FC6212A1A3500789EF2 /* white_words.png */,
 				40221FC7211E614400B2DD29 /* gluten.png */,
 				40271013211E120E00977BD0 /* gluten_free.png */,
 				40589058211B8EA3004682BE /* glutenIngredients.txt */,
@@ -182,10 +182,10 @@
 			files = (
 				40EC7FEB212A0AC3001C97F2 /* dark_logo_transparent2.png in Resources */,
 				40EC7FE7212A063C001C97F2 /* color_words.png in Resources */,
-				40EC7FE02129FF14001C97F2 /* gluten_check_words_logo.png in Resources */,
+				40561FC7212A1A3500789EF2 /* white_words.png in Resources */,
+				40EC7FED212A1361001C97F2 /* white_logo_transparent.png in Resources */,
 				40EC7FE5212A0537001C97F2 /* LaunchScreen.storyboard in Resources */,
 				63C957FE1F74872600BAD365 /* Main.storyboard in Resources */,
-				40EC7FE2212A0405001C97F2 /* gcFinal_white_logo_transparent copy.png in Resources */,
 				40271014211E120F00977BD0 /* gluten_free.png in Resources */,
 				40221FC8211E614500B2DD29 /* gluten.png in Resources */,
 				40589059211B8EA4004682BE /* glutenIngredients.txt in Resources */,

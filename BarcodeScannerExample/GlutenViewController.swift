@@ -10,7 +10,12 @@ import UIKit
 
 class GlutenViewController: UIViewController {
 
+    
+    
     override func viewDidLoad() {
+
+        
+        
         super.viewDidLoad()
         DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)){
 //            self.presentingViewController?.dismiss(animated: true, completion: nil)

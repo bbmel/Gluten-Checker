@@ -12,6 +12,7 @@ final class BarCodeViewController: UIViewController {
         super.viewDidLoad()
         //        globalHasGluten = false
     }
+    
     @IBOutlet var pushScannerButton: UIButton!
     
     @IBAction func handleScannerPush(_ sender: Any, forEvent event: UIEvent) {
@@ -103,11 +104,11 @@ extension BarCodeViewController: BarcodeScannerCodeDelegate {
         print("Symbology Type: \(type)")
         
         loadScannedNutritionData(code: code) { result in
-            controller.dismiss(animated: true, completion: nil)
+            //controller.dismiss(animated: true, completion: nil)
             // if the item has gluten
             if result == true {
                 DispatchQueue.main.asyncAfter(deadline: .now() + 4.0) {
-                    controller.reset(animated: true)
+                    //controller.reset(animated: true)
                     let storyboard = UIStoryboard(name: "Main", bundle: nil)
                     let glutenViewController = storyboard.instantiateViewController(withIdentifier :"GlutenViewController")
                     self.present(glutenViewController, animated: true)
